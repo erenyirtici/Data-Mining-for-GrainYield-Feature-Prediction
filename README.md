@@ -26,12 +26,12 @@ We tested **multiple machine learning approaches** to determine the most effecti
 
 ## 📂 Dataset  
 
-The dataset contains **122 features** related to crop growth, soil conditions, and climate factors. The target variable **`GrainYield`** is categorized as follows:  
+The dataset contains **Features** related to crop growth, soil conditions, and climate factors. The target variable **`GrainYield`** is categorized as follows:  
 
-| Category | Label | Meaning |
-|----------|--------|------------|
-| A | `HighYield` | Best performance |
-| B | `MediumYield` | Moderate performance |
-| C | `LowYield` | Worst performance |
+| Category | Label | 
+|----------|--------|
+| A | `HighYield` | 
+| B | `MediumYield` | 
+| C | `LowYield` |
 
 ---
