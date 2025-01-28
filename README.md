@@ -4,9 +4,9 @@ This project is a **collaborative machine learning study** that explores differe
 
 ## 👨‍💻 Team Members & Contributions  
 
-🔹 **Eren Yırtıcı** - Recursive Feature Elimination (RFE) + Random Forest  
-🔹 **Yaşar Kağan Şahbaz** - SelectKBest (Filter Method) + SVM Classifier  
-🔹 **Umut Yılmaz** - PCA (Principal Component Analysis) + Gradient Boosting  
+🔹 **Eren Yırtıcı** 
+🔹 **Yaşar Kağan Şahbaz**
+🔹 **Umut Yılmaz** 
 
 Each member used a different **feature selection method** and applied various **classification algorithms** to compare model performances.  
 
